@@ -1,0 +1,30 @@
+#for{
+    margin-top: 40px;
+    width: 40%;
+    margin-left: 28%;
+}
+
+#botaoDois{
+    margin-left: 140px;
+    border-radius: 1em;
+}
+
+#bot{
+    display: flex;
+    padding: 20px;
+}
+
+#botaoUm {
+    margin-left: 125px;
+    width: 140px;
+    border-radius: 1em;
+}
+
+
+.result{
+    display: flex;
+    margin-left: 30%;
+}
+.form-control{
+    border-radius: 1em;
+}
